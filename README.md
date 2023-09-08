@@ -1,2 +1,2 @@
 # house-price-prediction
-Machine Learning model to predict house price using linear regression only Jupyter notebook code.
+Machine Learning model to predict house price using linear regression.
